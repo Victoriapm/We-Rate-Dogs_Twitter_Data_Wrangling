@@ -19,7 +19,8 @@ The dataset that will be wrangling (and analyzing and visualizing) in this proje
 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. 
 Why? 
-Because ["they're good dogs Brent."](https://i.kym-cdn.com/photos/images/newsfeed/001/225/812/2b3.png)
+Because...
+!["they're good dogs Brent."](https://i.kym-cdn.com/photos/images/newsfeed/001/225/812/2b3.png)
 
 WeRateDogs has over 4 million followers and has received international media coverage.
 
